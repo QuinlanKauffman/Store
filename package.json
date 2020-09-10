@@ -1,0 +1,14 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "TypeScript components, need to figure out Store concept",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && node store.js"
+  },
+  "author": "qskauffman",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.0.2"
+  }
+}
