@@ -102,7 +102,7 @@ export class Store implements IStore {
      */
     public undo(): void {
         if(this.history.length > 0){
-            this.data = this.history.pop();
+            this.data = <IStoreDataRequired> this.history.pop();
         }
     }
 

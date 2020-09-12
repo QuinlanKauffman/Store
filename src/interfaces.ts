@@ -1,5 +1,5 @@
 export interface IElement {
-    getOuterHTMLElement(): HTMLElement 
+    getOuterHTMLElement(): HTMLElement;
 }
 
 export interface IService {
