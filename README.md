@@ -1,6 +1,12 @@
 # TS
 Create an entire TypeScript front-end
 
+## Local
+- Update node packages when pull repo
+    - npm install
+- Run live-server locally from rpoject's root directory
+    - live-server
+
 # Features
 - IComponent
     - One single method
