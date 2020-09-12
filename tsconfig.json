@@ -7,7 +7,4 @@
     "sourceMap": true,
     "target": "ES6"
   },
-  "files": [
-    "store.ts"
-  ]
 }

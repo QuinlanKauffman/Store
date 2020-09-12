@@ -1,5 +1,5 @@
-import { IHTTP } from './interfaces'
+// import { IHTTP } from './interfaces'
 
-let http: IHTTP = {
+// let http: IHTTP = {
 
-}
+// }
